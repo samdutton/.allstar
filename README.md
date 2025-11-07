@@ -1,1 +1,11 @@
+**This technology is schedule for deprecation.**
+
+This repository will be archived and will no longer be updated.
+
+See our [Update on Plans for Privacy Sandbox Technologies](https://privacysandbox.com/news/update-on-plans-for-privacy-sandbox-technologies/).
+
+[Privacy Sandbox feature status](https://privacysandbox.google.com/overview/status) provides more information about the status of individual APIs and platform features.
+
+---
+
 Default Allstar configuration that points to [google/allstar-config](https://github.com/google/allstar-config).
